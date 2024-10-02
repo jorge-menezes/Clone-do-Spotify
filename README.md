@@ -67,7 +67,7 @@ I welcome contributions to the Spotify Clone project. If you would like to contr
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 `Fork the repository`
-
+i
 Create a new branch: `git checkout -b my-branch-name`
 
 Make your changes and commit them: `git commit -m 'Add some feature'`
