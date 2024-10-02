@@ -8,7 +8,7 @@ The "spotify-clone" project is a web application that replicates the core functi
 ## Installation
 To install and run the Spotify Clone locally on your machine, follow these steps:
 
-Clone this repository to your local machine using git clone : https://github.com/HoneyTyagii/spotify-clone
+Clone this repository to your local machine using git clone : https://github.com/jorge-menezes/Clone-do-Spotify
 
 Navigate to the project directory: cd Spotify-Clone
 
